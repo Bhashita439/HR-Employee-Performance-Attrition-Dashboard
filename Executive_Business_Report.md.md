@@ -1,6 +1,6 @@
 # 📈 Workforce Dynamics & Retention Strategy Report
 
-**Prepared By:** Muhammed Thaha Uwais & NL Bhashita  
+**Prepared By:** NNL Bhashita  
 **Target Stakeholders:** Chief Human Resources Officer (CHRO) & Executive Leadership Team  
 **Data Sources:** Engineered HR Workforce Database via MySQL & Power BI Insights Pipeline  
 
